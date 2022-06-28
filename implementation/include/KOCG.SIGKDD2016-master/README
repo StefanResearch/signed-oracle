@@ -1,0 +1,4 @@
+To run the competing method FOCG by Chu et al. (KDD'16), download their
+code and put it into /include/KOCG.SIGKDD2016-master. The code can be downloaded
+from the following link:
+	https://github.com/lingyangchu/KOCG.SIGKDD2016
